@@ -20,11 +20,8 @@
 <p align="center">
 <a href="https://dev.to/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codehaveli" height="30" width="30" /></a>
 <a href="https://twitter.com/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codehaveli" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codehaveli" height="30" width="30" /></a>
 <a href="https://fb.com/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="codehaveli" height="30" width="30" /></a>
 <a href="https://www.behance.net/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="codehaveli" height="30" width="30" /></a>
 <a href="https://medium.com/@codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@codehaveli" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codehaveli" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="codehaveli" height="30" width="30" /></a>
-<a href="https://www.geeksforgeeks.com/codehaveli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="codehaveli" height="30" width="30" /></a>
+</a>
 </p>
